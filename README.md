@@ -1,7 +1,8 @@
 
-#  Nautical Ranks
+#  Beastlys Ranks
 
 A resouse pack for java and bedrock that adds custom ranks like better ranks for items adder one of the reasons we are a better option is we work on geyser and all are ranks are free and easy to download no need for a plugin just a resource pack.
+This is based on the Nautical Ranks 
 
 
 
