@@ -20,7 +20,7 @@ This is based on the Nautical Ranks
 ![Logo](https://i.postimg.cc/B6zn02n0/IMG-20240406-231129.jpg)
 
 ## Symbols
-##Nautical
+## Nautical
 | Rank             | Symbol                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Admin  |  |
