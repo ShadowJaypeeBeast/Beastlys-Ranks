@@ -1,7 +1,7 @@
 
 #  Beastlys Ranks
 
-A resouse pack for java and bedrock that adds custom ranks like better ranks for items adder one of the reasons we are a better option is we work on geyser and all are ranks are free and easy to download no need for a plugin just a resource pack.
+A resouse pack for java and bedrock that adds custom ranks like better ranks for itemsadder or Oraxen this is for use for Beastlys Studios 
 This is based on the Nautical Ranks 
 
 
@@ -11,15 +11,16 @@ This is based on the Nautical Ranks
 
 - Geyser Compatible
 - No plugins needed
+- Compatible With Oraxen
 - Java & Bedrock
-- Free
+  
 
 
 ## Ranks
 ![Logo](https://i.postimg.cc/B6zn02n0/IMG-20240406-231129.jpg)
 
 ## Symbols
-
+##Nautical
 | Rank             | Symbol                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Admin  |  |
@@ -57,20 +58,9 @@ This is based on the Nautical Ranks
 
 
 
-
-
-
-## Java Pack Download
-```bash
-resource-pack=https://nauticalhosting.org/Nautical-Ranks-V2-JAVA.zip
-```
-```bash
-resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
-```
-
-## Credit
-Ranks Made By RealGamerz
-Youtube: https://youtube.com/@RealGamerzYT
+## Credits
+Original Rank Made By RealGamerz for Creating Nautical Ranks
+Official Github: https://github.com/DeathEnderMan/Nautical-Ranks
 RealGamerzYT Discord:
 https://discord.com/invite/k4uwYKNk3h
 ## Support
